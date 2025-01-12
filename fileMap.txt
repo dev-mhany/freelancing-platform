@@ -1,3 +1,4 @@
+.env
 .gitignore
 .prettierignore
 .prettierrc
@@ -48,10 +49,7 @@ app/(lib)/utils/dateFormat.ts
 app/(lib)/utils/helpers.ts
 app/(lib)/utils/validation.ts
 app/(types)/
-app/(types)/auth.ts
-app/(types)/message.ts
-app/(types)/project.ts
-app/(types)/user.ts
+app/(types)/types.ts
 app/admin/
 app/admin/layout.tsx
 app/admin/page.tsx
@@ -88,6 +86,7 @@ app/providers.tsx
 app/theme.ts
 createFiles.js
 eslint.config.mjs
+fileMap.txt
 generateFileMap.js
 next-env.d.ts
 next.config.ts
