@@ -7,7 +7,7 @@ import Sidebar from './(components)/ui/navigation/Sidebar'
 import Footer from './(components)/ui/navigation/Footer'
 import { theme } from './theme'
 import { AuthProvider } from './(hooks)/firebase/useAuth'
-
+// test 1
 interface RootLayoutProps {
   children: ReactNode
 }
